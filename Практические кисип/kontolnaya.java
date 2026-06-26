@@ -1,13 +1,13 @@
 import java.util.Scanner;
 
-public class PrimeCheck {
+public class kontolnaya {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         if (isPrime(n)) {
-            System.out.println(n + " - простое число");
+            System.out.println(n + " - ГЇГ°Г®Г±ГІГ®ГҐ Г·ГЁГ±Г«Г®");
         } else {
-            System.out.println(n + " - составное число");
+            System.out.println(n + " - Г±Г®Г±ГІГ ГўГ­Г®ГҐ Г·ГЁГ±Г«Г®");
         }
     }
 
